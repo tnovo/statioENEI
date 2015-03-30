@@ -18,7 +18,7 @@ import org.apache.commons.csv.CSVRecord;
  *
  * @author Tiago
  */
-public class StatioENEI {
+public class StratioENEI {
 
     /**
      * @param args the command line arguments
